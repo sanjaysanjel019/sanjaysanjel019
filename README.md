@@ -11,9 +11,9 @@
 - ⚡ Fun fact: I love to watch movies and stargaze.
 
 #### This is me figuring out what to do with my life
-<div style="text-align:center">
+
     ![My eternal mood](https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif)
-</div>
+
 
 ### Here's more about me 🤨
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sanjaysanjel019&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
