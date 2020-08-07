@@ -12,7 +12,7 @@
 
 #### This is me figuring out what to do with my life
 
-    ![My eternal mood](https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif)
+![My eternal mood](https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif)
 
 
 ### Here's more about me 🤨
