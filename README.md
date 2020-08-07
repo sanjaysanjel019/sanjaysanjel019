@@ -1,8 +1,8 @@
 ![Intro](https://1.bp.blogspot.com/-70vU_I6CLq8/XyzfUMkNRJI/AAAAAAAACs4/LtQLK6jrDXYva0rsxmZtdITEWTMDCIk-wCLcBGAsYHQ/s2240/newfile.png)
 
-### Hi there, I'm Sanjay 👋
+### 😄 Hi there, I'm Sanjay 👋
 
-## I'm just a tech!
+### I'm just a tech 😉😉!
 - 🔭 I’m currently working on a secret project!
 - 🌱 I’m currently learning Node.js 🤣
 - 👯 I’m looking to connect to other developers.
@@ -12,7 +12,8 @@
 #### This is me figuring out what to do with my life
 ![My eternal mood](https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif)
 
-### In case you want to see me LIVE Code, here's a glimpse of it
-![This is me coding](https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif)
+### Here's more about me 🤨
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sanjaysanjel019&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
