@@ -4,12 +4,15 @@
 
 ## I'm just a tech!
 - 🔭 I’m currently working on a secret project!
-- 🌱 I’m currently learning Node.sjjs 🤣
+- 🌱 I’m currently learning Node.js 🤣
 - 👯 I’m looking to connect to other developers.
 - 🥅 2020 Goals: Contribute more to Open Source projects and develop more.
 - ⚡ Fun fact: I love to watch movies and stargaze.
 
-#### Me everytime I began to code
+#### This is me figuring out what to do with my life
 ![My eternal mood](https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif)
+
+### In case you want to see me LIVE Code, here's a glimpse of it
+![This is me coding](https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif)
 
 
