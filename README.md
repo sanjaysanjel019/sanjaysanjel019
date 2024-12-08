@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on a secret project!
 - 🌱 I’m currently learning Node.js 🤣
 - 👯 I’m looking to connect to other developers.
-- 🥅 2020 Goals: Contribute more to Open Source projects and develop more.
+- 🥅 2024 Goals: Learn FrontEnd Development using React and dive more into AI.
 - ⚡ Fun fact: I love to watch movies and stargaze.
 
 #### This is me figuring out what to do with my life
